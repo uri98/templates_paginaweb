@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Nombre de proyecto
 
-You can use the [editor on GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Puede utilizar el [editor en GitHub] (https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll] (https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introducción
 
-### Markdown
+Describe de qué trata tu proyecto:
+* ¿qué problema vas a abordar?
+* ¿porqué es importante?
+* ¿cómo se relaciona con la **ODS** asignada a tu club? 
+* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Métodología
 
-```markdown
-Syntax highlighted code block
+Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 
-# Header 1
-## Header 2
-### Header 3
+### Resultados
 
-- Bulleted
-- List
+Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas). 
 
-1. Numbered
-2. List
+### Conclusiones
 
-**Bold** and _Italic_ and `Code` text
+Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos. 
 
-[Link](url) and ![Image](src)
-```
+### Video
+ Para insertar un video de YouTube, en la página de YouTube del video selecciona compartir y selecciona el código de html `< >`.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rmXvlBPq24Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Equipo
 
-### Jekyll Themes
+* Estudiante 1
+* Estudiante 2
+* Estudiante 3
+* Estudiante 4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
