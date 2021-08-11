@@ -27,7 +27,7 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column!
 
 Puedes inster imagenes simplemente arrastrandolas en el editor. [Instrucciones](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)
-[Ejemplo logo clubes](https://user-images.githubusercontent.com/33070775/129099988-d0feee19-72ba-4acf-9569-0302b5b656c3.png)
+[](https://user-images.githubusercontent.com/33070775/129099988-d0feee19-72ba-4acf-9569-0302b5b656c3.png)
 
 
 ### Conclusiones
