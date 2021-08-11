@@ -4,6 +4,8 @@ Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_pag
 
 El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
 
+*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
+
 ### Introducción
 
 Describe de qué trata tu proyecto:
@@ -18,14 +20,7 @@ Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de 
 
 ### Resultados
 
-Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas). 
-
-Puedes insertar una Tabla de forma Manual:
-
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column!
+Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
 
 Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
 
