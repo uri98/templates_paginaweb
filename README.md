@@ -21,6 +21,7 @@ Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de 
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas). 
 
 Puedes insertar una Tabla de forma Manual:
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
