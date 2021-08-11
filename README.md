@@ -26,8 +26,12 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column!
 
-Puedes inster imagenes simplemente arrastrandolas en el editor. [Instrucciones](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)
-[](https://user-images.githubusercontent.com/33070775/129099988-d0feee19-72ba-4acf-9569-0302b5b656c3.png)
+Puedes inster imagenes utilizando Markdown `![](Logo_CdeCMx.png)`.
+
+![](Logo_CdeCMx.png)
+
+O utilizando codigo html `<img src="Logo_CdeCMx.png" width=200>`, la ventaja de utilizar html es que le puedes modificar el tamaño utilizando **width**.
+<img src="Logo_CdeCMx.png" width=200>
 
 
 ### Conclusiones
