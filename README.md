@@ -1,18 +1,21 @@
-## Nombre de proyecto
+Microplastico en nuestra cotidianidad
+¿Problema ambiental o agravante de la salud humana?
 
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
+Introducción - Microplastico a sido un tema de tendencia ambiental en los últimos años, ya que hemos visto como se el plástico a obtenido el protagonismo cuando hablamos de contaminación oceánica, que si bien no es el único problema ambiental es un factor que influye en el desarrollo 
 
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
+ 
+El ser humano a tenido desde la era industrial un constante contacto con productos que en muchas ocasiones desconocemos su procedencia, es bien sabido que el microplastico esta presente en muchos de nuestros alimentos, cosméticos y diferentes productos de uso común, tanto es rl impacto en nuestro organismo que se estima que cada quincena un ser humano puede llegar a ingerir el microplastico proporcional a una tarjeta de crédito. 
 
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
-### Introducción
+Es muy importante comprender que no solo el ecosistema esta recibiendo estos estragos sino qie la salud humana tiene un efecto colateral del uso de estos elementos en la industria. 
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+
+En Océanos Sustentables, mucho de lo que se busca como propósito general es generar alternativas para no solo cuidar el medio ambiente marino, sino, atender las causas que deriban en efectos colaterales para la salud humana y la diversidad de ecosistemas implicados. 
+
+
+Parte de nuestra solución es poder generar productos que usen bases de orígenes naturales, que replacen muchas de las estructuras de hidrocarburos procesados en polímeros, esto para minimizar el impacto, es importante revisar nuestros productos para conocer su procedencia.
+
+
 
 ### Métodología
 
@@ -41,10 +44,9 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  2. Insertar el link de tu video en YouTube, [nuestro video](https://youtu.be/rmXvlBPq24Q).
  4. Puedes subir el archivo de tu video directamente a Github [instrucciones aquí](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
  
-### Equipo
+Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+Uriel Galván Benavidez 
+Cinthya Maricruz Cardos Ceballos 
+Cristian Salazar Álbarran
 
